@@ -9,6 +9,7 @@ public class ConstBasics
 public static void main(String[] args)
 	{
 	ConstBasics obj=new ConstBasics();
+	System.out.println("This is line entered from the Git");
 	
 
 	}
